@@ -1,0 +1,2 @@
+﻿origin	https://github.com/tayabodla-786/Tayab-s-Portfolio.git (fetch)
+origin	https://github.com/tayabodla-786/Tayab-s-Portfolio.git (push)
